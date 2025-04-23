@@ -1,2 +1,2 @@
 # Quick-Cart
-Quick Cart 
+Quick Cart by Nextjs
